@@ -1,0 +1,8 @@
+Enter the city name :
+_______________________________________________________________________________
+Whether Status for-Nashik || 23 JUN 2021 | 3:00:12 AM
+_______________________________________________________________________________
+Current temperature is           :27.02 deg C
+Current weather desc             : cold
+Current humidity                     :98%
+Current wind speed                :1.12kmph
